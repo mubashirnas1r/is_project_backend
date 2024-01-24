@@ -1,13 +1,11 @@
 # Backend Setup
-```markdown
-
-
 ## Step 1: Clone the Repository
+```markdown
 
 Clone the FastAPI repository to your local machine.
 
 ```bash
-git clone https://github.com/tiangolo/fastapi.git
+git clone https://github.com/mubashirnas1r/is_project_backend.git
 cd fastapi
 ```
 
