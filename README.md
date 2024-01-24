@@ -1,5 +1,6 @@
-```markdown
 # Backend Setup
+```markdown
+
 
 ## Step 1: Clone the Repository
 
@@ -60,4 +61,3 @@ deactivate
 
 Now, you have successfully set up and run a FastAPI application in a virtual environment.
 
-```
