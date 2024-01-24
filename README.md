@@ -5,7 +5,7 @@ Clone the FastAPI repository to your local machine.
 
 ```bash
 git clone https://github.com/mubashirnas1r/is_project_backend.git
-cd fastapi
+cd is_project_backend
 ```
 
 ## Step 2: Create a Virtual Environment
@@ -56,5 +56,5 @@ Once you are done, deactivate the virtual environment:
 deactivate
 ```
 
-Now, you have successfully set up and run a FastAPI application in a virtual environment.
+Now, you have successfully set up and run a the Backend of my project in a virtual environment.
 
