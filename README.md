@@ -1,6 +1,5 @@
 # Backend Setup
 ## Step 1: Clone the Repository
-```markdown
 
 Clone the FastAPI repository to your local machine.
 
