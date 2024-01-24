@@ -38,16 +38,15 @@ Install the required dependencies using `pip`:
 pip install -r requirements.txt
 ```
 
-## Step 4: Run the FastAPI Application
+## Step 4: Run the backend
 
 Run the FastAPI application using the following command:
 
 ```bash
-uvicorn main:app --reload
+uvicorn backend:app --reload
 ```
 
-The application will be accessible at [http://127.0.0.1:8000](http://127.0.0.1:8000). You can access the interactive documentation at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) and the JSON Swagger documentation at [http://127.0.0.1:8000/openapi.json](http://127.0.0.1:8000/openapi.json).
-
+The application will be accessible at [http://127.0.0.1:8000](http://127.0.0.1:8000). But you don't need to do anything after it succesfully run then you have to run the frontend. please find its documentation [here](https://github.com/mubashirnas1r/is_project_frontend)
 ## Step 5: Deactivate the Virtual Environment
 
 Once you are done, deactivate the virtual environment:
